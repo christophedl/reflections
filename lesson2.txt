@@ -5,16 +5,28 @@ It creates the .git file and starts tracking files (after you commit)
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+You can group files to commit, intermediate step to avoid errors.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+You can group files to commit, intermediate step to avoid errors.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Working with multiple people on the same project, adding experimental branches
+
 How do the diagrams help you visualize the branch structure?
+
+They visualize the branch structure.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All changes of both branches are added to a single branch. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+It automates the obvious merges but still asks if there might be an issue.
