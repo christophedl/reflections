@@ -1,1 +1,2 @@
-Blabla, blablabla
+When would you want to use a remote repository rather than keeping all your work local?
+  As a backup for hard disk failure, to share with other people, ...
